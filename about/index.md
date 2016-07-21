@@ -17,3 +17,7 @@ This blog does not allow public comments (yet). Feel free to send any via email 
 ### Contact me
 
 Email: [steve@sd.net.nz](mailto:steve@sd.net.nz)
+
+<a href="http://www.somethingawful.com/news/simcity-advisors/">
+	<img src="/images/2016/angry-about-cities.jpg">
+</a>
