@@ -19,6 +19,7 @@ layout: default
     {{ content }}
   </div>
 
-
+  {% unless page.crosspost %}
   {% include disqus.html %}
+  {% endunless %}
 </article>
