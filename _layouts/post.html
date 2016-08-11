@@ -8,6 +8,12 @@ layout: default
   <div class="date">
     Posted by {{ page.author }} on {{ page.date | date: "%e %B %Y" }}
   </div>
+
+  {% if page.crosspost %}
+  <div class="crosspost">
+  	This article has also been posted at <a href="{{ page.crosspost }}">{{ page.crosspost_title }}</a> and you can comment there.
+  </div>
+  {% endif %}
   
   <div class="entry">
     {{ content }}
