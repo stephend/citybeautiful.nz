@@ -10,6 +10,8 @@ permalink: /links/
 
 [Andrew Price](http://www.andrewalexanderprice.com/)
 
+[At The Drive Thru podcast](http://atthedrivethru.co.nz/)
+
 [Ben Ross](https://voakl.net/)
 
 [Bike Auckland](https://www.bikeauckland.org.nz/)
@@ -41,6 +43,8 @@ permalink: /links/
 [Eye of the Fish](http://eyeofthefish.org/)
 
 [Galena Tachieva](http://sprawlrepair.com/)
+
+[Giovanni Tiso](http://bat-bean-beam.blogspot.com/)
 
 [Greater Auckland](http://www.greaterauckland.org.nz/)
 
