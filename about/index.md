@@ -11,7 +11,7 @@ You can see my topical and snarky reckons on this [blog](/) or on [Twitter](http
 
 I'm a member of [Greater Auckland](http://www.greaterauckland.org.nz/), and student member of the [New Zealand Planning Institute](http://www.planning.org.nz/). The views expressed on this website, however, are mine alone.
 
-This blog does not allow public comments (yet). Feel free to send any via email or social media.
+This blog allows public comments using [disqus](https://disqus.com/). Sometimes they'll be turned off, for example when a post is crossposted somewhere else more popular that has its own comments. You can also feel free to send any comments via email or the social medias.
 
 ### Contact me
 
