@@ -22,6 +22,8 @@ permalink: /links/
 
 [Bryce Pearce](https://theorewaurbanist.wordpress.com/)
 
+[By the Motorway](http://bythemotorway.be/)
+
 [Campaign for Better Transport](http://www.bettertransport.org.nz/)
 
 [Cap'n Transit](http://capntransit.blogspot.co.nz/)
@@ -95,3 +97,5 @@ permalink: /links/
 [TransportBlog](http://www.transportblog.co.nz/)
 
 [The Wellingtonista](http://wellingtonista.com/)
+
+[Werewolf](http://werewolf.co.nz/)
