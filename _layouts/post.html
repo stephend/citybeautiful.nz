@@ -19,7 +19,9 @@ layout: default
     {{ content }}
   </div>
 
+  {% if page.allow_comments %}
   {% unless page.crosspost %}
   {% include disqus.html %}
   {% endunless %}
+  {% endif %}
 </article>

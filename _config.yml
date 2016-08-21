@@ -19,6 +19,7 @@ defaults:
       path: ""
     values:
       author: "Stephen Davis"
+      allow_comments: true
 
 #
 # Flags below are optional
