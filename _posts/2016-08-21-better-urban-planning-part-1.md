@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Better Urban Planning? - Part 1: New Zealand today
+title: "Better Urban Planning? - Part 1: New Zealand today"
 allow_comments: false
 ---
 
