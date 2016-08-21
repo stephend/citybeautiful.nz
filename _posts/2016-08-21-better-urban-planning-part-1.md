@@ -14,7 +14,7 @@ The report proposes some fairly big changes to the way we plan. I've been readin
 
 ### Where are we now?
 
-New Zealand is a highly urbanised country, and like the rest of the world, is only getting more urbanised. But in part this depends how we define "urban". According to our own definition, 86% of New Zealanders live in urban areas. But if we use the standard definitions for other countries, we're actually one of the least urban countries in the OECD.
+New Zealand is a highly urbanised country, and like the rest of the world, is only getting more urbanised. But in part this depends how we define "urban". According to our own definition, 86% of New Zealanders live in urban areas. But if we use the standard definitions for other countries, we're actually less urban than the average OECD country.
 
 ![Graph of urbanisation in OECD countries. New Zealand is below the average.](/images/2016/urbanisation.png)
 
