@@ -3,6 +3,7 @@ layout: post
 title: March Madness Marches On
 crosspost: http://transportblog.co.nz/2016/07/28/guest-post-march-madness-marches-on/
 crosspost_title: TransportBlog
+allow_comments: false
 ---
 
 Regular readers of [TransportBlog](http://transportblog.co.nz/) will be familiar with [March Madness](http://transportblog.co.nz/tag/march-madness/). With workers, students and kids all trying to use public transport simultaneously, it's the busiest month of the year. In rush hour, trips can take an hour longer. People stand helplessly at bus stops as bus after bus sails by packed to the gunwales, with their headsigns proclaiming "BUS FULL".
