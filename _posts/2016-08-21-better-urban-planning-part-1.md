@@ -16,13 +16,13 @@ The report proposes some fairly big changes to the way we plan. I've been readin
 
 New Zealand is a highly urbanised country, and like the rest of the world, is only getting more urbanised. But in part this depends how we define "urban". According to our own definition, 86% of New Zealanders live in urban areas. But if we use the standard definitions for other countries, we're actually one of the least urban countries in the OECD.
 
-![Graph of urbanisation in OECD countries. New Zealand is below the average.](images/2016/prodcom/urbanisation.png)
+![Graph of urbanisation in OECD countries. New Zealand is below the average.](/images/2016/prodcom/urbanisation.png)
 
 That said, more than 70% of New Zealanders live in cities larger than 50,000 people. One third live in Auckland (p20).
 
 Why is this so? There are huge benefits to cities, called agglomeration benefits. Proximity and population lower the cost of doing business. A larger population means a bigger pool of jobs to choose from, and expands the range of goods and services and other amenities you can enjoy. Economies of scale mean that providing public and private services is cheaper when the fixed costs can be spread wider. People can change jobs more easily, and couples can more easily find jobs for both partners (p22).
 
-![Graph of productivity in New Zealand cities. Most industries are much more productive in the main centres.](images/2016/prodcom/productivity.png)
+![Graph of productivity in New Zealand cities. Most industries are much more productive in the main centres.](/images/2016/prodcom/productivity.png)
 
 But agglomeration is not all positive. There are costs to size, such as extra air and water pollution, traffic congestion, and higher prices for some goods, particularly housing. Part of the goal of city planning is to reduce the downsides of scale while increasing the benefits.
 
@@ -34,17 +34,17 @@ It's also the destination for the bulk of international migrants, which is also 
 
 In addition to growing more populous, our main cities are also getting denser - that is, they're not growing out as fast as they're adding new residents. The neighbourhood the average Aucklander lived in got 33% more dense from 2001 to 2013 . Four of our five largest cities (not Christchurch) got denser during this time. New Zealand's cities are among the densest in Australasia, but not very dense by world standards (p74).
 
-![Graph of density of New Zealand cities. Most are getting denser.](images/2016/prodcom/density.png)
+![Graph of density of New Zealand cities. Most are getting denser.](/images/2016/prodcom/density.png)
 
 So does that mean we've been getting intensification? Councils often have a policy to encourage growth to happen by increasing the density of central areas, and increasing density across the city seems like it would mean that they are succeeding.
 
 But actually, it hasn't really been that way. Wellington had the majority of its growth in the central city, by transforming industrial and commercial space to residential. The other cities all got denser in a strange way. The new suburbs they built were simply much denser than existing urban areas. This has meant some weird patterns, particularly in Auckland, where outer suburbs are much more dense than inner suburbs. More than 70% of Auckland's new dwellings were more than 10km away from the city centre (p75).
 
-![Map of density increases in Auckland](images/2016/prodcom/density_auckland.png)
+![Map of density increases in Auckland](/images/2016/prodcom/density_auckland.png)
 
 New Zealanders also tend not to be too keen on intensification. The majority prefer a larger standalone house, even if that means living farther away from town. This is particularly strong among the middle-aged. There is, however, one very interesting exception. People over 65 are the only group who are more likely to prefer a smaller house or apartment closer to the city (p80).
 
-![Chart of housing type preference - young and old are most likely to want to live in a smaller but more central home.](images/2016/prodcom/proximity.png)
+![Chart of housing type preference - young and old are most likely to want to live in a smaller but more central home.](/images/2016/prodcom/proximity.png)
 
 Some New Zealand towns and cities, particularly the smallest, aren't growing at all, or are even shrinking. They generally have ambitious plans to reverse those declines, and generally, they haven't worked. A few towns, however, accept that they are shrinking, and are planning with this in mind. Rangitikei District Council (which covers Bulls, Marton, and Taihape), for example, is aiming to reduce the size of its water and road networks as the demand for them reduces (p86).
 
