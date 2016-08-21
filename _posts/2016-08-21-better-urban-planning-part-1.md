@@ -50,4 +50,4 @@ Some New Zealand towns and cities, particularly the smallest, aren't growing at 
 
 Different places have different issues providing for residents. There's also environmental issues, social, and economic factors to consider, not to mention the politics of it all.
 
-In part 2 of this series, we'll look at how New Zealand's urban planning system deals with these challenges today.
+That's probably enough for today. In part 2 of this series, we'll look at how New Zealand's urban planning system deals with these challenges today.
