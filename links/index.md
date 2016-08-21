@@ -64,13 +64,13 @@ permalink: /links/
 
 [Market Urbanism](http://marketurbanism.com/)
 
+[Nathan Lewis](http://www.newworldeconomics.com/archives/tradcityarchive.html) (the traditional city part, can't say I really care either way about the gold standard)
+
 [New Zealand Planning Institute](http://www.planning.org.nz/)
 
 [Next City](http://nextcity.org/forefront)
 
 [Old Urbanist](http://oldurbanist.blogspot.com/)
-
-[Nathan Lewis](http://www.newworldeconomics.com/archives/tradcityarchive.html) (the traditional city part, can't say I really care either way about the gold standard)
 
 [Planetizen](http://www.planetizen.com/frontpage)
 
