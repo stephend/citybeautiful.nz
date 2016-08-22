@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Better Urban Planning? - Part 1: New Zealand today"
-allow_comments: false
+allow_comments: true
 ---
 
 Planning is a surprisingly hot issue at the moment. From the housing crisis to the Unitary Plan, water quality to public transport, everyone suddenly seems to care about how our cities function. The government is certainly taking an interest, too. So much so that it has three separate reviews of planning and RMA issues going on.
