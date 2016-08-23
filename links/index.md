@@ -52,6 +52,8 @@ permalink: /links/
 
 [Hark, a Vagrant!](http://www.harkavagrant.com/)
 
+[Hemingway Editor](http://www.hemingwayapp.com/)
+
 [Human Transit](http://www.humantransit.org/)
 
 [Joel Cayford](http://joelcayford.blogspot.com/)
