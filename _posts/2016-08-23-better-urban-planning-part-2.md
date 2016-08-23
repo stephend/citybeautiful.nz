@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Better Urban Planning? - Part 2: Better than what, exactly
+title: "Better Urban Planning? - Part 2: Better than what, exactly"
 ---
 
 Welcome back. This series is a look at the Productivity Commission's report "Better Urban Planning". For now, we're looking at the background to their proposals.
