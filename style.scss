@@ -292,7 +292,7 @@ footer {
 sub, sup {
   /* Specified in % so that the sup/sup is the
      right size relative to the surrounding text */
-  font-size: 75%;
+  font-size: 50%;
 
   /* Zero out the line-height so that it doesn't
      interfere with the positioning that follows */
@@ -309,7 +309,7 @@ sub, sup {
 
 sup {
   /* Move the superscripted text up */
-  top: -0.5em;
+  top: -0.33em;
 }
 
 sub {
