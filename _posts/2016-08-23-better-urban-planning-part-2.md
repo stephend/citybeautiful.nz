@@ -51,7 +51,7 @@ Here's the split of voters by age, compared to who votes in national elections. 
 
 ![Voting rates by age in local elections.](/images/2016/voter_rates.png)
 
-This has very real effects. Local government isn't good at taking account of national issue, but it's bigger than that.All of these factors are proxies for one major thing: local councils mostly care about people who currently own houses, have lived in them for a long time, and intend to keep living in them. It also overrepresents people who are most concerned about paying rates, as compared to the value we might get from spending them. "Existing homeowners also have a disproportionate influence in the policy and political processes, and tend to be the dominant voters in local body elections" (p111). This is also the case in national elections, but it's less extreme.
+This has very real effects. Local government isn't good at taking account of national issues, but it's bigger than that. All of these factors are proxies for one major thing: local councils mostly care about people who currently own houses, have lived in them for a long time, and intend to keep living in them. It also overrepresents people who are most concerned about paying rates, as compared to the value we might get from spending them. "Existing homeowners also have a disproportionate influence in the policy and political processes, and tend to be the dominant voters in local body elections" (p111). This is also the case in national elections, but it's less extreme.
 
 Low turnout and skewed demographics are not a problem with the voters themselves. They're a sign that candidates are out of touch and not presenting real options. The Commission doesn't address this, and that's a shame. But nonetheless, some of their proposals have the side-effect of reducing the disproportionate power of some groups, as we'll see in part 3.
 
@@ -61,7 +61,7 @@ All of this would still be less concern if our planning system was at least doin
 
 ![Monitoring](/images/2016/monitoring.png)
 
-There are some things we do well. We have some of the best air quality in the world (p128), 
+There are some things we do well. We have some of the best air quality in the world (p128), and good access to "green space" (p143).
 
 But other things are less rosy. Our freshwater is badly polluted (p133) and in some cases getting worse. Our greenhouse gas emissions have rised rapidly since 1990 and have only just begun a very slight decline. We produce more trash (p147) and have less effective wastewater treatment (p148) than most other OECD countries.
 
@@ -73,13 +73,13 @@ And that's just the environment, supposedly the main priority of the RMA. When i
 
 ![Graph of proportion of income spent on housing](/images/2016/getting_worse.png)
 
-![Factoid box](/images/2016/factoid.png)
+![Factoid box](/images/2016/factoid.PNG)
 
 10% of Aucklanders are in "crowded" housing. 6% are in "severely crowded" housing<sup>[3](#fn3)</sup> (p140).
 
 What's more, we're not even keeping up what we've already built. We're mostly renewing our roads, but water, stormwater, and wastewater infrastructure is coming to the end of its life, and not being renewed.
 
-![Depreciation of water and road assets](/images/2016/depeciation.png)
+![Depreciation of water and road assets](/images/2016/depreciation.png)
 
 Not all of this is the fault of planning. Despite what [Bill English might think](https://www.hivenews.co.nz/articles/344-english-blames-town-planners-for-any-inequality), planners do not have unlimited power and nor is city planning able to fix every problem. But it is the cause of at least some issues.
 
