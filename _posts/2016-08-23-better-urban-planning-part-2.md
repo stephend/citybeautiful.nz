@@ -47,7 +47,7 @@ While we have elaborate consultation processes, they still tend to hear a very n
 
 The voters for local government are not very representative either, and here we come to an issue where I think the Commission has got it very wrong. They take it as an article of faith that governments that represent a particular geographic area are somehow "closer" to the people (e.g. on p52). But there's a huge bias in this - it gives the loudest voice to people who are most closely associated with that particular area. Homeowners and landlords rather than renters, the stationary rather than the mobile, the old rather than the young, people with several generations of ancestors here rather than immigrants<sup>[2](#fn2)</sup>.
 
-Here's the split of voters by age, compared to who votes in national elections. It's a dramatic difference.
+Here's the split of voters by age. There's a massive different in turnout between young and old.
 
 ![Voting rates by age in local elections.](/images/2016/voter_rates.png)
 
