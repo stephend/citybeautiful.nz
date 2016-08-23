@@ -49,7 +49,7 @@ The voters for local government are not very representative either, and here we 
 
 Here's the split of voters by age, compared to who votes in national elections. It's a dramatic difference.
 
-![Voting rates by age in local elections.](/images/2016/voting_rates.png)
+![Voting rates by age in local elections.](/images/2016/voter_rates.png)
 
 This has very real effects. Local government isn't good at taking account of national issue, but it's bigger than that.All of these factors are proxies for one major thing: local councils mostly care about people who currently own houses, have lived in them for a long time, and intend to keep living in them. It also overrepresents people who are most concerned about paying rates, as compared to the value we might get from spending them. "Existing homeowners also have a disproportionate influence in the policy and political processes, and tend to be the dominant voters in local body elections" (p111). This is also the case in national elections, but it's less extreme.
 
