@@ -37,13 +37,13 @@ negative impacts rather than planning for positive effects" (p91).
 
 We do not have a federal system, but we still have three tiers of government - central, regional, and territorial. Central government also has several agencies involved - the Department of Conservation, the New Zealand Transport Agency, the Ministry for the Environment, the Environmental Protection Agency, the Department of Internal Affairs, and the Ministry of Business, Innovation and Employment. But most of the work is done by the bottom two tiers of government: regional and territorial councils.
 
-This is a problem, because local government is not particularly representative. While it's nominally democratic, it has some real issue with who it represents. New Zealand is big on "consultation" processes, where members of the public have their say on the operations of government. But these consultations tend not to include everyone.
+This is a problem, because local government is not particularly representative. While it's nominally democratic, it has some real issues with who it represents. New Zealand is big on "consultation" processes, where members of the public have their say on the operations of government. But these consultations tend not to include everyone.
 
-One example is drawn from Auckland Council's Peter Nunns, writing at [TransportBlog](http://transportblog.co.nz/2016/03/02/the-consultation-problem-who-submits-on-the-plan-repost): the demographics of people who submitted on the council's "long term plan", effectively its budget.
+One example is drawn from Auckland Council's Peter Nunns, writing at [TransportBlog](http://transportblog.co.nz/2016/03/02/the-consultation-problem-who-submits-on-the-plan-repost): the demographics of people who submitted on the council's "long term plan", effectively the budget.
 
 ![Chart of submitters to the Auckland Council 2015-2025 Long Term Plan. Men, Europeans, and the elderly are overrepresented. Ethnic minorities and young people are under-represented.](/images/2016/ltp.png)
 
-While we have elaborate consultation processes, they still tend to hear a very narrow range of views. It's only a small section of society that shows up, and the interests of everyone else tends to be discounted.
+While we have elaborate consultation processes, they still tend to hear a very narrow range of views. It's only a small section of society that shows up, and the interests of everyone else tend to be discounted.
 
 The voters for local government are not very representative either, and here we come to an issue where I think the Commission has got it very wrong. They take it as an article of faith that governments that represent a particular geographic area are somehow "closer" to the people (e.g. on p52). But there's a huge bias in this - it gives the loudest voice to people who are most closely associated with that particular area. Homeowners and landlords rather than renters, the stationary rather than the mobile, the old rather than the young, people with several generations of ancestors here rather than immigrants<sup>[2](#fn2)</sup>.
 
