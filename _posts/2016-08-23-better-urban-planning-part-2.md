@@ -57,7 +57,7 @@ Low turnout and skewed demographics are not a problem with the voters themselves
 
 ### Outcomes
 
-All of this would still be less concern if our planning system was at least doing a good job. But there's major problems. First is that councils often don't even have much idea whether their plans are working, because they don't check! Most territorial authorities do not monitor what effects their plans actually have.
+All of this would still be less concerning if our planning system was at least doing a good job. But there's major problems. First is that councils often don't even have much idea whether their plans are working, because they don't check! Most territorial authorities do not monitor what effects their plans actually have.
 
 ![Monitoring](/images/2016/monitoring.png)
 
