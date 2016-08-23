@@ -27,7 +27,7 @@ But that didn't happen in practice. Most councils kept plans that were similar t
 
 ### Town and Country
 
-Oddly, the RMA also doesn't actually seem to have anything to say about cities. It only mentions "towns" in the name of the Town and Country Planning Act, the planning law we had until 1991. "City" only comes up when saying which cities you have to run public notices in the newspaper. "Urban" didn't appear at all until 2009, and even then it only applies to a very specific issue - how much detail a local council needs to go to in order to have rules about protecting trees <sup>[1](#fn1)</sup>.
+Oddly, the RMA also doesn't actually seem to have anything to say about cities. It only mentions "towns" in the name of the Town and Country Planning Act, the planning law we had until 1991. "City" only comes up when saying which cities you have to run public notices in the newspaper. "Urban" didn't appear at all until 2009, and even then it only applies to a very specific issue - how much detail a local council needs to go to in order to have rules about protecting trees<sup>[1](#fn1)</sup>.
 
 This is more than just symbolic. "Key features of the RMA cited as restricting its usefulness in urban areas include
 its largely reactive character, its limited scope to deal with cumulative effects, and its focus on managing
