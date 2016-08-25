@@ -5,7 +5,7 @@ title: "Better Urban Planning? - Part 2: Better than what, exactly"
 
 Welcome back. This series is a look at the Productivity Commission's report "Better Urban Planning". For now, we're looking at the background to their proposals.
 
-[Part 1](/posts/2016/08/better-urban-planning-part-1) looked at the state of New Zealand's cities today. This part will look at how we plan our cities and some flaws in that system.
+[Part 1](/2016/08/better-urban-planning-part-1) looked at the state of New Zealand's cities today. This part will look at how we plan our cities and some flaws in that system.
 
 ### How does our system work?
 
