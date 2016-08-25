@@ -11,7 +11,10 @@ layout: default
 
   {% if page.crosspost %}
   <div class="crosspost">
-  	This article has also been cross-posted at <a href="{{ page.crosspost }}">{{ page.crosspost_title }}</a> and you can comment there.
+  	This article has also been cross-posted at <a href="{{ page.crosspost }}">{{ page.crosspost_title }}</a> 
+    {% unless page.allow_comments %}
+    and you can comment there.
+    {% endunless %}
   </div>
   {% endif %}
   
@@ -20,8 +23,6 @@ layout: default
   </div>
 
   {% if page.allow_comments %}
-  {% unless page.crosspost %}
   {% include disqus.html %}
-  {% endunless %}
   {% endif %}
 </article>

@@ -20,6 +20,7 @@ defaults:
     values:
       author: "Stephen Davis"
       allow_comments: true
+      thumbnail: /images/boat.png
 
 #
 # Flags below are optional
