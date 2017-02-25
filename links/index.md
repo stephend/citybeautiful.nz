@@ -30,6 +30,8 @@ permalink: /links/
 
 [Carto](https://carto.com/)
 
+[Chapo Trap House](https://soundcloud.com/chapo-trap-house)
+
 [The Children's Illustrated Clausewitz](https://clausewitzforkids.wordpress.com/) (not updated in a long time)
 
 [City Observatory](http://cityobservatory.org/)
