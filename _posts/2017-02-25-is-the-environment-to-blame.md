@@ -2,7 +2,7 @@
 layout: post
 title: "Is the environment to blame for the cost of housing?"
 thumbnail: /images/2017/maud_island_frog.jpg
-excerpt: "Since the Prime Minister, Bill English, seems to think so, it's worth asking the question."
+excerpt: "<p>Since the Prime Minister, Bill English, seems to think so, it's worth asking the question.</p>"
 ---
 
 ![A Maud Island frog](/images/2017/maud_island_frog.jpg)
