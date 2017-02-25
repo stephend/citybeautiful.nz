@@ -54,11 +54,11 @@ permalink: /links/
 
 [Hemingway Editor](http://www.hemingwayapp.com/)
 
-[Human Transit](http://www.humantransit.org/)
+[Human Transit](http://www.humantransit.org/) - the first and last word in popular public transport planning
 
 [Joel Cayford](http://joelcayford.blogspot.com/)
 
-[Land Information New Zealand](https://data.linz.govt.nz/)
+[Land Information New Zealand](https://data.linz.govt.nz/) - data portal
 
 [Living Streets Aotearoa](http://www.livingstreets.org.nz/)
 
@@ -90,13 +90,15 @@ permalink: /links/
 
 [Streetsblog](http://usa.streetsblog.org/)
 
-[Think of a City](http://thinkofacity.tumblr.com/)
+[Think of a City](http://thinkofacity.tumblr.com/) - look at pretty pictures
 
 [Timespanner](http://timespanner.blogspot.com/)
 
+[Tofugu](https://www.tofugu.com/) - a Japanese language and culture blog
+
 [Tom Beard](http://wellurban.blogspot.co.nz/) (not updated in a long, long time)
 
-[TransportBlog](http://www.transportblog.co.nz/)
+[TransportBlog](http://www.transportblog.co.nz/) - New Zealand's best transport-related news and opinion site
 
 [The Wellingtonista](http://wellingtonista.com/)
 
