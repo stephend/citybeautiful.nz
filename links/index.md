@@ -68,7 +68,7 @@ permalink: /links/
 
 [Market Urbanism](http://marketurbanism.com/)
 
-[Nathan Lewis](http://www.newworldeconomics.com/archives/tradcityarchive.html) (the traditional city part, can't say I really care either way about the gold standard)
+[Nathan Lewis](http://newworldeconomics.com/category/traditional-city-post-heroic-materialism/) (the traditional city part, can't say I really care either way about the gold standard)
 
 [New Zealand Planning Institute](http://www.planning.org.nz/)
 
