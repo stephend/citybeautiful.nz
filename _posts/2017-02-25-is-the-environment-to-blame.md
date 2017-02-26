@@ -17,7 +17,7 @@ New Zealand deals with much of its environmental regulation and urban planning t
 
 It is our main "environmental" law. But it's also a curious creature, since it deals with far more than what most of us would consider the "environment". Explicitly, and deliberately so, and arguably for some good reasons. 
 
-Until the 1991, people developing land for housing, or business, or industry, needed to get permits under several statutes, from several departments or local councils, each with different processes. Each process was separate. You could spend thousand or millions of dollars, and several years, to get all but one of your permits, just to be denied at the last minute.
+Until 1991, people developing land for housing, or business, or industry, needed to get permits under several statutes, from several departments or local councils, each with different processes. Each process was separate. You could spend thousands or millions of dollars, and several years, to get all but one of your permits, just to be denied at the last minute.
 
 ### What does that have to do with the environment?
 
