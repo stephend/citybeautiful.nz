@@ -38,6 +38,8 @@ The second takes a cheaper route with more of the route at ground level, alongsi
 
 ![Map of proposed rail route, Wellington Station to Airport via Mount Victoria](/images/2017/wellington-rail-h.png)
 
+In the maps, red is trench, purple is cut-and-cover, blue is bored, orange is at-grade, and pink is elevated. Pins are at stations.
+
 These are not necessarily the best options - in particular, we may want extra or fewer stations, or to move their locations. But it should be able to give us an idea of what this would cost.
 
 ### The cost - a back of the envelope calculation
