@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Under The Mountain (of cash)
+title: Wellington: Under The Mountain
 ---
 
 In recent years, the government has poured vast sums of money into highways in Wellington. The just-opened Kapiti Expressway cost [$630 million](http://www.stuff.co.nz/motoring/87003336/Northern-half-of-Kapiti-expressway-gets-green-light-as-true-cost-is-finally-revealed). Transmission Gully is still under construction, and will cost [$850 million](http://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully/), a figure that doesn't even include the extra costs that come from the Public-Private Partnership scheme used to build it.
@@ -27,7 +27,9 @@ Maybe it is too expensive, but I think it deserves more investigation than it ha
 
 I've come up with a couple of ideas for routes - each extending the existing heavy rail network from the current terminus to a new terminus at the airport, with a double-tracked electrified line. It would have six platforms there: enough, hopefully, to turn around 24 trains per hour. At peak this would allow 10 trains per hour on each of the Hutt and Kapiti Lines, plus another 4 trains per hour from the Johnsonville Line, to continue from the current terminus and finish at the airport instead.
 
-As for just how it gets between the two and where it stops, I've picked two representative options. The first is the "full" option, with stops at the Hospital in Newtown and in Kilbirnie.
+The path will break from the current station at ground level, and head along the Quays in a trench. This is not the greatest of civic surroundings, but the Quays are already terrible and cause massive severance, so this won't be any worse. We then head down between Kent and Cambridge Tces to the Basin Reserve.
+
+After that, I've picked two representative options. The first is the "full" option, with stops at the Hospital in Newtown and in Kilbirnie.
 
 ![Map of proposed rail route, Wellington Station to Airport via Newtown](/images/2017/wellington-rail-n.png)
 
@@ -54,33 +56,31 @@ Based on these figures, for our back-of-the-envelope calculation, I'm going to g
 ### Crunching the numbers
 
 Option 1 includes 
-
-{|
-	|-	!Method!!Length (km)!!Cost ($m)
-	|-	|Trench||3.34||668
-	|-	|Cut and cover||2.43||729
-	|-	|TBM||1.23||553
-	|-	|At-grade||1.14||29
-	|-	|*TOTAL*||*8.14*||1979
-|}
+	
+|**Method**|**Length (km)**|**Cost ($m)**|
+|Trench|3.34|668|
+|Cut and cover|2.43|729|
+|TBM|1.23|553|
+|At-grade|1.14|29|
+|**TOTAL**|**8.14**|**1979**|
 
 So 8.14km at an average $243/km.
 
 Option 2 includes
 
-{|
-	|-	!Method!!Length (km)!!Cost ($m)
-	|-	|Trench||1.76||352
-	|-	|Cut and cover||0.78||234
-	|-	|TBM||1.68||756
-	|-	|Elevated||0.71||142
-	|-	|At-grade||2.68||67
-	|-	|*TOTAL*||*7.61*||1551
-|}
+|**Method**|**Length (km)**|**Cost ($m)**|
+|Trench|1.76|352|
+|Cut and cover|0.78|234|
+|TBM|1.68|756|
+|Elevated|0.71|142|
+|At-grade|2.68|67|
+|**TOTAL**|**7.61**|**1551**|
 
 So 7.61km at an average $204/km.
 
 These figures don't allow much for property acquisition, but luckily we won't need much. The only big takes are at the airport, which WCC partly owns and for who the railway would be a huge positive. And at New World Chaffers Street. This is a fairly similar situation to Commercial Bay in Auckland, and so it's possible this could be acquired effectively for nothing as part of a redevelopment of the site.
+
+Stations don't come free, either, but they're included in the sample projects I based the numbers on.
 
 ### Summary
 
@@ -88,4 +88,4 @@ All in all, this back of the envelope look makes it seem like rail to the airpor
 
 Curiously, that's almost exactly what NZTA wants to spend on an expressway to Upper Hutt. What do you think would be a better buy? Widening another road to funnel more cars into the city? Or a way of getting around all of the city, free from traffic?
 
-Maybe you think Wellington doesn't need something of this scale. Perhaps, but if so it hardly needs a pile of new highways, either. If we're going to do something big, do something good. Don't fritter it away on motorway lanes that will just be as congested as the last ones.
+Maybe you think Wellington doesn't need something of this scale. Perhaps, but if so it hardly needs a pile of new highways, either. If we're going to do something big, do something good. Don't fritter it away on motorway lanes that will be just as congested as the last ones.
