@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Wellington: Under The Mountain
+title: "Wellington: Under The Mountain"
+thumbnail: /images/2017/matangi_800.jpg
 ---
 
 In recent years, the government has poured vast sums of money into highways in Wellington. The just-opened Kapiti Expressway cost [$630 million](http://www.stuff.co.nz/motoring/87003336/Northern-half-of-Kapiti-expressway-gets-green-light-as-true-cost-is-finally-revealed). Transmission Gully is still under construction, and will cost [$850 million](http://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully/), a figure that doesn't even include the extra costs that come from the Public-Private Partnership scheme used to build it.
@@ -36,6 +37,8 @@ After that, I've picked two representative options. The first is the "full" opti
 The second takes a cheaper route with more of the route at ground level, alongside Cobham Drive, but doesn't have a Newtown/Hospital station.
 
 ![Map of proposed rail route, Wellington Station to Airport via Mount Victoria](/images/2017/wellington-rail-h.png)
+
+In the maps, red is trench, purple is cut-and-cover, blue is bored, orange is at-grade, and pink is elevated. Pins are at stations.
 
 These are not necessarily the best options - in particular, we may want extra or fewer stations, or to move their locations. But it should be able to give us an idea of what this would cost.
 
