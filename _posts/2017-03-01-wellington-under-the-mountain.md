@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wellington: Under The Mountain"
-thumbnail: /images/2017/matangi_800.jpg
+thumbnail: /images/2017/matangi_tn.jpg
 ---
 
 In recent years, the government has poured vast sums of money into highways in Wellington. The just-opened Kapiti Expressway cost [$630 million](http://www.stuff.co.nz/motoring/87003336/Northern-half-of-Kapiti-expressway-gets-green-light-as-true-cost-is-finally-revealed). Transmission Gully is still under construction, and will cost [$850 million](http://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully/), a figure that doesn't even include the extra costs that come from the Public-Private Partnership scheme used to build it.
