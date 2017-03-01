@@ -67,7 +67,7 @@ Option 1 includes
 |At-grade|1.14|29|
 |**TOTAL**|**8.14**|**1979**|
 
-So 8.14km at an average $243/km.
+So 8.14km at an average $243m/km.
 
 Option 2 includes
 
@@ -79,7 +79,7 @@ Option 2 includes
 |At-grade|2.68|67|
 |**TOTAL**|**7.61**|**1551**|
 
-So 7.61km at an average $204/km.
+So 7.61km at an average $204m/km.
 
 These figures don't allow much for property acquisition, but luckily we won't need much. The only big takes are at the airport, which WCC partly owns and for who the railway would be a huge positive. And at New World Chaffers Street. This is a fairly similar situation to Commercial Bay in Auckland, and so it's possible this could be acquired effectively for nothing as part of a redevelopment of the site.
 
