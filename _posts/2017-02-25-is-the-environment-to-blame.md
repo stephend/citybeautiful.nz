@@ -7,7 +7,7 @@ excerpt: "<p>Since the Prime Minister, Bill English, seems to think so, it's wor
 
 ![A Maud Island frog](/images/2017/maud_island_frog.jpg)
 
-*image: Phil Bishop, CC-BY-SA, [https://en.wikipedia.org/wiki/Maud_Island_frog#/media/File:Leiopelma_pakeka02.jpg]*
+*image: Phil Bishop, CC-BY-SA, [Wikipedia](https://en.wikipedia.org/wiki/Maud_Island_frog#/media/File:Leiopelma_pakeka02.jpg)*
 
 Since the Prime Minister, Bill English, [seems to think so](http://www.nzherald.co.nz/politics/news/article.cfm?c_id=280&objectid=11807509#pq=X7Exzj), it's worth asking the question.
 
