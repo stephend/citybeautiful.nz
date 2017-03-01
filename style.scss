@@ -252,6 +252,19 @@ nav {
 }
 
 .post {
+  table {
+    border-collapse: collapse;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 10px;
+  }
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
