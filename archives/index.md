@@ -10,6 +10,6 @@ layout: default
       <span class="date">
         {{ post.date | date: "%e %B %Y" }}
       </span>
-    </div>S
+    </div>
   {% endfor %}
 </div>
