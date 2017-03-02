@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wellington: Under The Mountain"
-thumbnail: /images/2017/matangi_800.jpg
+thumbnail: /images/2017/matangi_tn.jpg
 ---
 
 In recent years, the government has poured vast sums of money into highways in Wellington. The just-opened Kapiti Expressway cost [$630 million](http://www.stuff.co.nz/motoring/87003336/Northern-half-of-Kapiti-expressway-gets-green-light-as-true-cost-is-finally-revealed). Transmission Gully is still under construction, and will cost [$850 million](http://www.nzta.govt.nz/projects/wellington-northern-corridor/transmission-gully/), a figure that doesn't even include the extra costs that come from the Public-Private Partnership scheme used to build it.
@@ -67,7 +67,7 @@ Option 1 includes
 |At-grade|1.14|29|
 |**TOTAL**|**8.14**|**1979**|
 
-So 8.14km at an average $243/km.
+So 8.14km at an average $243m/km.
 
 Option 2 includes
 
@@ -79,7 +79,7 @@ Option 2 includes
 |At-grade|2.68|67|
 |**TOTAL**|**7.61**|**1551**|
 
-So 7.61km at an average $204/km.
+So 7.61km at an average $204m/km.
 
 These figures don't allow much for property acquisition, but luckily we won't need much. The only big takes are at the airport, which WCC partly owns and for who the railway would be a huge positive. And at New World Chaffers Street. This is a fairly similar situation to Commercial Bay in Auckland, and so it's possible this could be acquired effectively for nothing as part of a redevelopment of the site.
 
