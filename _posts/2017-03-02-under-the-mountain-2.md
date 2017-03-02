@@ -27,3 +27,5 @@ I've fiddled with the Metlink map a bit to show the arrangement of services. Bla
 ### Could there be more stations?
 
 Yes, it depends how you want to trade off speed and walk-up coverage. In Option 1, the Hospital, Kilbirnie and Airport stations would all be fed by local buses which would no longer need to go all the way in to town. But alternatively, you could add more stations, e.g. Basin Reserve, a second, southern Newtown station, and a station at Rongotai.
+
+![Extra stations plan](/images/2017/extra_stations.png)
