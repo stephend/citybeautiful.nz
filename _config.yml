@@ -20,7 +20,7 @@ defaults:
       path: ""
     values:
       author: "Stephen Davis"
-      allow_comments: true
+      allow_comments: false
       thumbnail: /images/boat.png
 
 #
