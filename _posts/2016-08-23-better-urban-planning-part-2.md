@@ -86,7 +86,7 @@ Not all of this is the fault of planning. Despite what [Bill English might think
 
 ### So what next, wise guy?
 
-That's enough for today. In Part 3 we'll go high-concept and look at what planning is supposed to achieve, what the commission wants to do, and some exclusive hot takes of my own.
+That's enough for today. In [Part 3](/2017/03/better-urban-planning-part-3) we'll go high-concept and look at what planning is supposed to achieve, what the commission wants to do, and some exclusive hot takes of my own.
 
 ### Notes
 
