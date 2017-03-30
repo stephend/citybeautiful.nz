@@ -4,19 +4,22 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
+  <div class="clearfix">
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="date">
-        Posted by {{ post.author }} on {{ post.date | date: "%e %B %Y" }}
+      <div class="byline">
+        <span class="author">{{ post.author }}</span> | <span class="date">{{ post.date | date: "%e %B %Y" }}</date>
       </div>
 
       <div class="entry">
-        {{ post.excerpt }}
+        <img class="excerpt_thumbnail" width=144 height=144 src="{{ post.thumbnail }}">
+        <span class="excerpt_text">{{ post.excerpt }}</span>
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+  </div>
   {% endfor %}
 </div>

@@ -6,6 +6,7 @@
 name: City Beautiful
 timezone: Pacific/Auckland
 encoding: utf-8
+repository: stephend/citybeautiful.nz
 
 # Short bio or description (displayed in the header)
 description: "Planning, Mapping, Cities, Snark, and Oxford Commas"

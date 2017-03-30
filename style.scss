@@ -115,7 +115,18 @@ img {
   max-width: none;
 }
 
-.date, .crosspost {
+.byline {
+  font-size: 9pt;
+  .date {
+    color: $darkGray;
+  }
+  .author {
+    color: black;
+    font-weight: bold;
+  }
+}
+
+.crosspost {
   font-style: italic;
   color: $gray;
 }
@@ -241,15 +252,25 @@ nav {
 // .main
 //
 
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+.entry {
+  .excerpt_thumbnail {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+  }
 }
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
+.posts {
+  .post {
+    padding-bottom: 2em;
+    border-bottom: 2px solid $lightGray;
+  }
+  .post:last-child {
+    padding-bottom: 1em;
+    border-bottom: none;
+  }
 }
+
 
 .post {
   table {
