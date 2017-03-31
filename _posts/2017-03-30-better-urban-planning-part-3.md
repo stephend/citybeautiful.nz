@@ -10,7 +10,7 @@ We've got this far without completely going back to basics. But the Commission d
 
 So, it's time to ask a question I often get asked when making chit-chat at parties[^1]: what is urban planning, and why do we do it?
 
-# What is urban planning, and why do we do it?
+## What is urban planning, and why do we do it?
 
 There are as many answers to this as there are planners, although they tend to boil down to some common factors. Urban planning is the design of cities, the arrangement and connection of their components, and the control and provision of what happens within them.
 
@@ -42,7 +42,7 @@ Skepticism of the very idea of city planning is still alive and well today. Agai
 
 It's in this background that the Productivity Commission starts to justify planning, and decide what the limits on it should be. It's heavily based in economic theory - as you'd expect, given the rationale of the organisation. It also focuses fairly heavily on one of the two major tools of planners - regulation. This again is what you would expect from an organisation of its political bent.
 
-# So what does the Productivity Commission see as the role of planning?
+## So what does the Productivity Commission see as the role of planning?
 
 There are numerous purely economic reasons for a government role in city planning (p48). Sewage treatment and parks and streetlamps are all *public goods*, which need to be provided at public expense if they are going to happen at all. *Negative externalities* such as pollution or noise need intervention to avoid people dumping the costs of their activities on others. *Natural monopolies* like piped water or roads need to be provided or at least controlled by the government. Some activities like railways and airports could theoretically be delivered privately, but are probably just too big for any private-sector organisation in New Zealand to attempt without government support.
 
@@ -58,7 +58,7 @@ The left has for decades been a fan of "[too-clever-by-half](http://democracyjou
 
 It hasn't worked, and even when it does work no-one notices. Regulate less, and spend more.
 
-# How to plan
+## How to plan
 
 Once we know what planning is trying to achieve, we need to figure out how to achieve it. So the commission looks at the major styles of planning (p55). They have almost entirely relied on the views of Italian theorist Stefano Moroni, who has some fairly strong stances. There's a number of distinctions that can be made, and in each case the Commission has a pretty obvious preference.
 
@@ -82,7 +82,7 @@ We need top-down planning, which is best suited to planning via regulation, crea
 
 But we also need bottom-up planning, which is better suited to delivering specific plans and prescribing outcomes. Except for mega-projects that are beyond the capacity of local government, it's also the best suited to levy rates and spend money on services. But we still need to decide just who is going to do what.
 
-# So what now?
+## So what now?
 
 Well, today we've covered the theory. We still need to put theory into practice, though. In Part 4, we'll look at what is to be done.
 
