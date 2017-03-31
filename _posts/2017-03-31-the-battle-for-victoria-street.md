@@ -92,7 +92,7 @@ Admitting that their preferred option would make it impossible to build the Line
 
 ### The Battle for Victoria Street
 
-The title of this post comes from friend of the blog, [Harriet Gale](https://twitter.com/Gale1212Harriet/status/847693581326336000), who mounted a swift Twitter campaign in defence of the Linear Park. The battle found allies, not least councillor [Richard Hills](https://twitter.com/richardhills777/status/847720119782395904), who described himself as "[pissed](https://twitter.com/richardhills777/status/847718485794799616)". We can only hope the war is won.
+The title of this post comes from friend of the blog, [Harriet Gale](https://twitter.com/Gale1212Harriet/status/847693581326336000), who mounted a swift Twitter campaign in defence of the Linear Park. The battle found allies, not least councillor [Richard Hills](https://twitter.com/richardhills777/status/847720119782395904), who described himself as "[pissed](https://twitter.com/richardhills777/status/847718485794799616)", as well he should. We can only hope the war is won.
 
 No, wait. We can do more than hope.
 
