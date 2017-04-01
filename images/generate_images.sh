@@ -54,7 +54,7 @@ find -regextype posix-egrep -regex '.*\.orig\.(jpg|jpeg|gif|png)$' | while read 
 
 
 	# Clear existing files
-	rm ${I_DIR}/${I_FIRST}.{tn144,tn300,w600,w800,w960}.*
+	#rm ${I_DIR}/${I_FIRST}.{tn144,tn300,w600,w800,w960}.*
 
 	read -r I_WIDTH I_HEIGHT <<< $( $MAGICK_CONVERT $I_FULLNAME -format "%w %h" info:)
 
