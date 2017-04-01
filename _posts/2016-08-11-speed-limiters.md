@@ -7,7 +7,7 @@ Speed kills. One of the most significant cause of road crashes is [speed](https:
 
 So that raises the question - why is it even possible? Why do we build cars that can be driven faster than the speed limit? Germany has electronic limiters stopping cars going over 255 km/h. Japan limits them to 180 km/h, and all of our used imports still have these limiters in them. Our top speed limit is 100km/h, although it may go up to 110 km/h [in the future](http://www.stuff.co.nz/motoring/news/10508094/New-110kmh-speed-limit-in-pipeline). So why not limit all cars to go no faster than that?
 
-We can go further, too. GPS technology and a regularly-updated database of speed limits would allow a device to limit vehicle speeds based on the actual speed limit in the area. 30km/h limits on suburban streets could be enforced, or 10km/h limits in shared spaces. Emergency vehicles would be able to turn it off when their lights were going, and approved motorsport organisations would be able to turn it off as well, for closed road events.
+We can go further, too. GPS technology and a regularly-updated database of speed limits would allow a device to limit vehicle speeds based on the actual speed limit in the area. 30km/h limits on suburban streets could be enforced, or 10km/h limits in shared spaces. Emergency vehicles would be able to turn it off when their lights were going, and approved motorsport organisations would be able to turn it off as well, for closed road events. The GPS would also know where racetracks were, so it wouldn't be applied for track days and club racing.
 
 ### So what of it?
 
