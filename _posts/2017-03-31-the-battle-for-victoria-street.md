@@ -56,7 +56,7 @@ Which explains what happened next.
 
 A few days after supposedly capitulating, Auckland Transport had a new tactic. Suddenly, and secretly, on a Friday afternoon, they quietly set up [a webpage](https://at.govt.nz/projects-roadworks/midtown-bus-route/) taking submissions on "route options out of the city centre" for the buses currently using Victoria Street. The Wellesley Street option was not favoured: they wanted "Option One": the status quo.
 
-!["Option One": keeping buses on the weird, illegible, and unreliable Victoria Street route](/images/2017/vic/option-1-map.jpg)
+!["Option One": keeping buses on the weird, illegible, and unreliable Victoria Street route](/images/2017/vic/option-1-map.w800.jpg)
 
 Supposedly, Wellesley Street had a whole host of disadvantages compared to Victoria Street:
 
