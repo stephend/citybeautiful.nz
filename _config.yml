@@ -12,7 +12,7 @@ repository: stephend/citybeautiful.nz
 description: "Planning, Mapping, Cities, Snark, and Oxford Commas"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/boat.png
+avatar: /images/boat.tn144.jpg
 
 defaults:
   -
@@ -21,7 +21,7 @@ defaults:
     values:
       author: "Stephen Davis"
       allow_comments: false
-      thumbnail: /images/boat.png
+      thumbnail: /images/boat.tn144.jpg
 
 #
 # Flags below are optional

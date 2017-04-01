@@ -50,7 +50,7 @@ permalink: /links/
 
 [Giovanni Tiso](http://bat-bean-beam.blogspot.com/)
 
-[Greater Auckland](http://www.greaterauckland.org.nz/)
+[Greater Auckland](https://www.greaterauckland.org.nz/) - formerly TransportBlog. New Zealand's best transport-related news and opinion site.
 
 [Hark, a Vagrant!](http://www.harkavagrant.com/)
 
@@ -99,8 +99,6 @@ permalink: /links/
 [Tofugu](https://www.tofugu.com/) - a Japanese language and culture blog
 
 [Tom Beard](http://wellurban.blogspot.co.nz/) (not updated in a long, long time)
-
-[TransportBlog](http://www.transportblog.co.nz/) - New Zealand's best transport-related news and opinion site
 
 [The Wellingtonista](http://wellingtonista.com/)
 
