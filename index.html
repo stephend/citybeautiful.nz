@@ -19,7 +19,7 @@ layout: default
         <span class="excerpt_text">{{ post.excerpt }}</span>
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ site.t[page.lang].read_more }}</a>
     </article>
   </div>
   {% endfor %}

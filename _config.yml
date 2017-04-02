@@ -47,6 +47,24 @@ defaults:
       allow_comments: false
       image: /images/boat.tn144.jpg
 
+# Translations
+t:
+  en:
+    read_more: "Read More"
+    menu:
+      latest:
+        name: "Latest"
+        url: "/"
+      archives:
+        name: "Archive"
+        url: "/archives/"
+      about:
+        name: "About"
+        url: "/about/"
+      links:
+        name: "Links"
+        url: "/links/"
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: steve@sd.net.nz
