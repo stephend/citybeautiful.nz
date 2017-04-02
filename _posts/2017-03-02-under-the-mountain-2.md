@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wellington: Under The Mountain, Part 2"
-thumbnail: /images/2017/matangi_tn.jpg
+image: /images/2017/matangi_tn.jpg
 ---
 
 After I posted my idea for a Wellington heavy rail extension in [Under the Mountain](/2017/03/wellington-under-the-mountain/), I got some helpful questions on Twitter, so I'd like to expand some of the ideas a little more.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is the environment to blame for the cost of housing?"
-thumbnail: /images/2017/maud_island_frog.jpg
+image: /images/2017/maud_island_frog.jpg
 excerpt: "<p>Since the Prime Minister, Bill English, seems to think so, it's worth asking the question.</p>"
 ---
 

@@ -10,11 +10,11 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="byline">
-        <span class="author">{{ post.author }}</span> | <span class="date">{{ post.date | date: "%e %B %Y" }}</span>
+        <span class="author">{{ post.author.name }}</span> | <span class="date">{{ post.date | date: "%e %B %Y" }}</span>
       </div>
 
       <div class="entry">
-        <img class="excerpt_thumbnail" width=144 src="{{ post.thumbnail }}">
+        <img class="excerpt_thumbnail" width=144 src="{{ post.image }}">
         <span class="excerpt_text">{{ post.excerpt }}</span>
       </div>
 

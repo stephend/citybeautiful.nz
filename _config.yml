@@ -2,48 +2,20 @@
 # This file contains configuration flags to customize your site
 #
 
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-coffeescript
+  - jekyll-paginate
+  # - jekyll-seo-tag
+  # - jemoji
+
 # Name of your site (displayed in the header)
 name: City Beautiful
 timezone: Pacific/Auckland
 encoding: utf-8
 repository: stephend/citybeautiful.nz
-
-# Short bio or description (displayed in the header)
-description: "Planning, Mapping, Cities, Snark, and Oxford Commas"
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/boat.tn144.jpg
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      author: "Stephen Davis"
-      allow_comments: false
-      thumbnail: /images/boat.tn144.jpg
-
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  email: steve@sd.net.nz
-  facebook: citybeautiful.nz
-  github: stephend
-  instagram: definitejandal
-  linkedin: stephen-davis-472883b
-  rss: rss # just type anything here for a working RSS icon
-  twitter: nzsd
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: citybeautiful
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-5655335-6
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -56,11 +28,45 @@ url: http://www.citybeautiful.nz
 #baseurl: "/citybeautiful.nz"
 baseurl: ""
 
+# Short bio or description (displayed in the header)
+description: "Planning, Mapping, Cities, Snark, and Oxford Commas"
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: /images/boat.tn144.jpg
+
+permalink: /:year/:month/:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: 
+        name: "Stephen Davis"
+      allow_comments: false
+      image: /images/boat.tn144.jpg
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email: steve@sd.net.nz
+  facebook: citybeautiful.nz
+  github: stephend
+  # instagram: definitejandal
+  linkedin: stephen-davis-472883b
+  rss: rss # just type anything here for a working RSS icon
+  twitter: nzsd
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: citybeautiful
+
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-5655335-6
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
-permalink: /:year/:month/:title/
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -79,14 +85,6 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
-# Use the following plug-ins
-gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-coffeescript
-  - jekyll-paginate
-  # - jemoji
-
 # Exclude these files from your production _site
 exclude:
   - Gemfile
@@ -94,3 +92,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# ENDS

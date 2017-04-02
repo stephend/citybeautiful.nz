@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Battle for Victoria Street"
-thumbnail: /images/2017/vic/linear.png
+image: /images/2017/vic/linear.png
 ---
 
 In 2012, Auckland Council released the [City Centre Masterplan](http://www.aucklandcouncil.govt.nz/EN/planspoliciesprojects/plansstrategies/ccmp/Pages/home.aspx). It had strong support from the council, and the public who submitted on it. Perhaps the cornerstone was a plan to pedestrianise Queen Street, a [fantastic idea in itself](https://www.greaterauckland.org.nz/2016/04/04/queen-st-lots-of-people-few-vehicles/), but not the topic of today's post.

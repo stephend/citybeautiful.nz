@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Better Urban Planning? - Part 3: Why We Plan"
-thumbnail: /images/2017/why_cats_paint.png
+image: /images/2017/why_cats_paint.png
 ---
 
 It's been several months since I wrote [Part 2](/2016/08/better-urban-planning-part-2) of this series, looking at the Productivity Commission's report on urban planning. Back then, it was a draft, however, they've just released the [final report](http://www.productivity.govt.nz/sites/default/files/Urban%20planning%20final%20web%20pdf_1.pdf). The final report is updated from the draft in many ways, but keeps the same broad thrusts. So, now is an excellent time to pick up where we left off.
