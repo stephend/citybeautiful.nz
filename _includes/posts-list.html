@@ -1,0 +1,22 @@
+<div class="posts">
+  {% assign posts=site.posts | where:"lang", page.lang %}
+  {% for post in posts %}
+  <div class="clearfix">
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="byline">
+        <span class="author">{{ post.author.name }}</span> | <span class="date">{{ post.date | date: "%e %B %Y" }}</span>
+      </div>
+
+      <div class="entry">
+        <img class="excerpt_thumbnail" width=144 src="{{ post.image }}">
+        <span class="excerpt_text">{{ post.excerpt }}</span>
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ site.t[page.lang].read_more }}</a>
+    </article>
+  </div>
+  {% endfor %}
+</div>
