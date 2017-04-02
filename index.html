@@ -3,7 +3,8 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% assign posts=site.posts | where:"lang", page.lang %}
+  {% for post in posts %}
   <div class="clearfix">
     <article class="post">
 

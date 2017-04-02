@@ -41,6 +41,7 @@ defaults:
     scope:
       path: ""
     values:
+      lang: en
       author: 
         name: "Stephen Davis"
       allow_comments: false
