@@ -19,7 +19,7 @@ convert_tn() {
 	export O_NAME="${I_DIR}/${I_FIRST}.tn${1}.${I_EXT}"
 	if [ ! -e ${O_NAME} -a $I_WIDTH -gt ${1} ] ; then
 		$MAGICK_CONVERT $I_FULLNAME \
-			-strip -resize "${1}x${1}^" -gravity center -crop 144x144+0+0 +repage \
+			-strip -resize "${1}x${1}^" -gravity center -crop "${1}x${1}+0+0" +repage \
 			"${O_NAME}"
 		crush_finished
 	fi	
