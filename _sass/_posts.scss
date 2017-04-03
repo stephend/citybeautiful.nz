@@ -1,0 +1,71 @@
+.entry {
+  .excerpt_thumbnail {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+  }
+}
+
+.posts {
+  .post {
+    padding-bottom: 2em;
+    border-bottom: 2px solid $lightGray;
+  }
+  .post:last-child {
+    padding-bottom: 1em;
+    border-bottom: none;
+  }
+}
+
+.byline {
+  font-size: 9pt;
+  .date {
+    color: $darkGray;
+  }
+  .author {
+    color: black;
+    font-weight: bold;
+  }
+}
+
+.crosspost {
+  font-style: italic;
+  color: $gray;
+}
+
+.footnotes {
+  font-size: 75%;
+}
+
+.post {
+  table {
+    border-collapse: collapse;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 10px;
+  }
+
+  blockquote {
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-size: 22px;
+    font-style: italic;
+  }
+
+  .comments {
+    margin-top: 10px;
+  }
+
+  .read-more {
+    text-transform: uppercase;
+    font-size: 15px;
+  }
+}
