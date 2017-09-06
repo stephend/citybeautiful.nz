@@ -64,5 +64,4 @@ find -regextype posix-egrep -regex '.*\.orig\.(jpg|jpeg|gif|png)$' | while read 
 	convert_tn 300
 	convert_w_jpg 600
 	convert_w 800
-	convert_w 960
 done
