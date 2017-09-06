@@ -64,13 +64,15 @@ permalink: /links/
 
 [Living Streets Aotearoa](http://www.livingstreets.org.nz/)
 
+[Mathew Borrett](https://www.instagram.com/yonderbean/) - art of imaginary cities
+
 [MAP MEN](https://www.youtube.com/playlist?list=PLfxy4_sBQdxy3A2lvl-y3qWTeJEbC_QCp)
 
 [Market Urbanism](http://marketurbanism.com/)
 
 [Nathan Lewis](http://newworldeconomics.com/category/traditional-city-post-heroic-materialism/) (the traditional city part, can't say I really care either way about the gold standard)
 
-[New Zealand Planning Institute](http://www.planning.org.nz/)
+[New Zealand Planning Institute](http://www.planning.org.nz/) - needless to say, they have an annual do
 
 [Next City](http://nextcity.org/forefront)
 
