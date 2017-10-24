@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Escaping the High Price Trap
+excerpt: "<p>We want house prices to drop for new buyers. But we also don't want house prices to drop for existing owners. How can that possibly be done?</p>"
 ---
+
+*This post was expanded slightly on 24/10 for clarity*
 
 New Zealand went to the polls on 23 September, but only a few days ago did we finally arrange who would form the government. It's a historic second in many ways: the second [Labour - New Zealand First government](https://en.wikipedia.org/wiki/New_Zealand_general_election,_2005), the [second-youngest premier](https://en.wikipedia.org/wiki/Edward_Stafford_(politician)), and despite many misconceptions, the [second time the largest party has not been in government](https://en.wikipedia.org/wiki/New_Zealand_general_election,_1928).
 
@@ -55,6 +58,10 @@ Is that possible? Right-wing commentator Hugh Pavletich says "You can't have an 
 
 But what if they aren't selling the same thing?
 
+In an interview on [The Nation](http://www.newshub.co.nz/home/shows/2017/10/interview-jacinda-ardern.html), Jacinda Ardern suggested that the distinction would be about the size and quality of dwelling: existing houses were 200sqm or more, and new affordable houses would be 100sqm or less.
+
+This is a valid point, but on its own, it's not enough. There are plenty of modest dwellings out there, built in the 1980s and before. But they are still incredibly expensive, as well. Can new dwellings be more affordable than these?
+
 ### What is a house worth, anyway?
 
 The value of a house (or apartment) is made up of two parts: the improvements (the building itself), and the land. The building itself is normally worth about what it costs to build, or to replace. Rises in "house prices" are really increases in the price of land, and the price of the land is by far the larger component in severely unaffordable markets like ours.  
@@ -65,8 +72,12 @@ But building a new house, or apartment, requires as much or as little land as yo
 
 It makes sense: if you can knock down one existing house to build multiple new houses, the link in prices is broken. As long as the sum of the values of the new houses is worth more than the value of the one house you knocked down, the developer can make a profit (or for the government, through KiwiBuild, break even). But each individual new house is cheaper than the old one.
 
+So we've done the impossible, and split the market: new affordable dwellings, and old ones keeping their value. Not because they are overvalued and scarce, as before, but because those existing houses sit on valuable, developable land. You've traded a value that only came from scarcity, and traded it for a value in something real: the ability to build multiple new houses.
+
 ### Intensification: the magic bullet
 
-So of our all the government's many tools to lower the price of a place to live, only one can make a new dwelling cheaper without dropping the value of the homes people already own. You can tinker with taxes and regulations and interest rates, but only one lets the government have its cake and eat it too. Intensification: building more houses in the same space. So when the government decides between building "up" and "out", there's more at stake than environmental goals or planning fads. It's also about whether you can deliver on the seemingly-conflicting promises you had to make: helping people put a roof over their heads, without wiping out those who already have one.
+Of our all the government's many tools to lower the price of a place to live, only one can make a new dwelling cheaper *without* dropping the value of the homes people already own. You can tinker with taxes and regulations and interest rates, but only one lets the government have its cake and eat it too. Intensification: building more houses in the same space. So when the government decides between building "up" and "out", there's more at stake than environmental goals or planning fads. It's also about whether you can deliver on the seemingly-conflicting promises you had to make: helping people put a roof over their heads, without wiping out those who already have one.
+
+A true left-wing government might be tempted to say "the hell with it, let's crash prices". For a more pragmatic government that still wants to make a difference, intensification truly is magic.
 
 [^1]: Except for moving towards Australia at 4cm / year. There's no accounting for taste. 
