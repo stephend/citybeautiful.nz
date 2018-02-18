@@ -121,7 +121,7 @@ _Street in Charlotte. Image: [Google Maps](https://www.google.co.nz/maps)_
 
 ### What about denser?
 
-That's as sparse as we go. It's probably also time for a breather. Next time, we'll see what Auckland would look like if it were not sparser, but denser than it is now. We'll see Auckland as it would look if it had been built like some famous cities around the world.
+That's as sparse as we go. It's probably also time for a breather. [Next time](/2018/02/how-dense-is-dense-p2/), we'll see what Auckland would look like if it were not sparser, but denser than it is now. We'll see Auckland as it would look if it had been built like some famous cities around the world.
 
 ### Notes
 
