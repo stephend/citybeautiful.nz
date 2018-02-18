@@ -64,6 +64,8 @@ permalink: /links/
 
 [Living Streets Aotearoa](http://www.livingstreets.org.nz/)
 
+[McMansion Hell](http://mcmansionhell.com/)
+
 [Mathew Borrett](https://www.instagram.com/yonderbean/) - art of imaginary cities
 
 [MAP MEN](https://www.youtube.com/playlist?list=PLfxy4_sBQdxy3A2lvl-y3qWTeJEbC_QCp)
@@ -105,3 +107,5 @@ permalink: /links/
 [The Wellingtonista](http://wellingtonista.com/)
 
 [Werewolf](http://werewolf.co.nz/)
+
+[X over it](http://xoverit.tumblr.com/)
