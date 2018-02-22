@@ -124,7 +124,7 @@ _Manhattan. Image: [Wikipedia user Jim Henderson](https://commons.wikimedia.org/
 
 ### Hong Kong and beyond
 
-Phew! That's quite a range. But we're not quite done. There are parts of cities denser than Manhattan. The densest part of modern-day Hong Kong is Kwan Tung (51,000 ppl/sq km). The densest I could find anywhere in the world is Lalbagh Thana, in Dhaka (168,000 ppl/sq km). An Auckland at that density would cover roughly the CBD and Ponsonby.
+Phew! That's quite a range. But we're not quite done. There are parts of cities denser than Manhattan. The densest part of modern-day Hong Kong is Kwun Tong (51,000 ppl/sq km). The densest I could find anywhere in the world is Lalbagh Thana, in Dhaka (168,000 ppl/sq km). An Auckland at that density would cover roughly the CBD and Ponsonby.
 
 In general, cities are only this dense with very crowded living areas: lots of people living in small apartments, or informal settlements with little outdoor or public space.
 
