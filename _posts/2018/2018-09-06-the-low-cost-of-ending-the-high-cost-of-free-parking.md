@@ -102,10 +102,12 @@ One way or another, though, a National Environmental Standard could be a quick, 
 
 ### Comments
 
-If you've got comments, @ me on [Twitter](https://twitter.com/nzsd).
+If you've got comments, @ me on [Twitter](https://twitter.com/nzsd)[^3].
 
 ### Notes
 
 [^1]: This seems to be incoherent as well. Why are the occupants of existing buildings entitled to free on-street parking at public expense, but the newcomers aren't? However, this seeming unfairness isn't really relevant to the main point.
 
 [^2]: You may be thinking of disability parking as well: this is already handled through the building code, which does not require that there be parking in the first place, but does require a certain proportion of any parking that is provided to be disabled spaces.
+
+[^3]: This article was adapted from a stream-of-consciousness [Twitter thread](https://twitter.com/nzsd/status/1037475036393684992) I wrote.
