@@ -2,7 +2,11 @@
 title: The Low Cost of Ending the High Cost of Free Parking
 layout: post
 image: /images/2018/volga.tn144.jpg
+excerpt: "<p>Why do we not just let developers decide how much parking to build, then live with the consequences of building too much or too little? Why \"the environment\" is used to justify subsidising driving, and how ending it isn't that hard.</p>"
 ---
+
+This article has also been cross-posted at [Greater Auckland](https://www.greaterauckland.org.nz/2018/09/10/the-low-cost-of-ending-the-high-cost-of-free-parking/) and you can comment there.
+{: .crosspost }
 
 New Zealanders are probably most familiar with the Resource Management Act (or "RMA" for short) as being about protecting the environment: when it's discussed by politicians, it's almost always either being decried as having environmental protections that are too onerous and stand in the way of progress, or alternatively being supported as the main defence of environmental health.
 
