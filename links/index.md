@@ -30,15 +30,11 @@ permalink: /links/
 
 [Carto](https://carto.com/)
 
-[Chapo Trap House](https://soundcloud.com/chapo-trap-house)
-
 [The Children's Illustrated Clausewitz](https://clausewitzforkids.wordpress.com/) (not updated in a long time)
 
 [City Observatory](http://cityobservatory.org/)
 
 [Dan Carlin](http://www.dancarlin.com/)
-
-[The Dim-Post](https://dimpost.wordpress.com/)
 
 [Eric Crampton](http://offsettingbehaviour.blogspot.com/)
 
@@ -57,6 +53,8 @@ permalink: /links/
 [Hemingway Editor](http://www.hemingwayapp.com/)
 
 [Human Transit](http://www.humantransit.org/) - the first and last word in popular public transport planning
+
+[Jane Jacobs Japan](https://janejacobsjapan.com/)
 
 [Joel Cayford](http://joelcayford.blogspot.com/)
 
