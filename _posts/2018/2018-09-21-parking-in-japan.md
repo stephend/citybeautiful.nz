@@ -2,7 +2,7 @@
 title: What would a free market for parking look like? It'd look a lot like Japan.
 layout: post
 image: /images/2018/takumi.tn144.jpg
-excerpt: "<p>What would a free market for parking look like? It'd look a lot like Japan.</p>"
+excerpt: "<p>In Japan, making sure that there is adequate parking is chiefly seen as a responsibility of the individual owner of the car, not property developers, businesses, or the government.</p>"
 ---
 
 The week before last I wrote about why parking minimums are bad policy, and [how easy it might be to end them](http://www.citybeautiful.nz/2018/09/the-low-cost-of-ending-the-high-cost-of-free-parking/). The excellent urban activist group [Greater Auckland](https://www.greaterauckland.org.nz/2018/09/10/the-low-cost-of-ending-the-high-cost-of-free-parking/) reposted it, and there were some interesting points raised in the comments section. 
