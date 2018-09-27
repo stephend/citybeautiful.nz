@@ -5,6 +5,9 @@ image: /images/2017/taihk/kowloon_walled_city.tn144.jpg
 excerpt: "<p>A few months ago, I talked about how density is defined, and looked at an alternate history, where Auckland had spread out even further than it has in reality. Now let's look at the other direction: a more compact form, like you'd find in Europe, or, as the title suggests, Asia.</p>"
 ---
 
+This article has also been cross-posted at [Greater Auckland](https://www.greaterauckland.org.nz/2018/02/23/dense-dense-part-2-turning-auckland-hong-kong/) and you can comment there.
+{: .crosspost }
+
 Density is a slippery subject. Many an [interesting but false factoid](https://www.greaterauckland.org.nz/2010/07/21/aucklands-population-density-killing-off-the-myths/) is thrown around about Auckland, such as that it is "the size of London"[^1] or "more spread out than any city except Los Angeles"[^2].
 
 ![The extent of "Auckland" for the purposes of this post](/images/2017/taihk/2200_auckland_with_suburbs.png)

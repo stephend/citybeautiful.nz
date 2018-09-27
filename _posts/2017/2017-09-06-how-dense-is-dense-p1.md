@@ -2,7 +2,11 @@
 layout: post
 title: "How Dense Is Dense? Part 1 - The Quarter Acre Paradise"
 image: /images/2017/taihk/auckland_density.tn144.png
+excerpt: "<p>When you talk about cities and transport, one term that comes up almost immediately is <i>density</i>. It's a simple idea - how many or few people are in a given place. But it's notoriously difficult to define, not because it's hard to measure, but because there are so many possible ways of doing it.</p>"
 ---
+
+This article has also been cross-posted at [Greater Auckland](https://www.greaterauckland.org.nz/2017/11/30/dense-dense-part-1-quarter-acre-paradise/) and you can comment there.
+{: .crosspost }
 
 When you talk about cities and transport, one term that comes up almost immediately is _density_. It's a simple idea - how many or few people are in a given place. But it's [notoriously difficult to define](http://transportblog.co.nz/2012/01/26/the-complexity-of-density/), not because it's hard to measure, but because there are [so many possible ways of doing it](http://transportblog.co.nz/2014/09/17/population-weighted-densities-in-new-zealand-and-australia/).
 

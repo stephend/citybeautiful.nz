@@ -4,14 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Steve. I've worked in software development and GIS, including at [AbleTech](http://www.abletech.co.nz) and [Koordinates](https://about.koordinates.com). I am currently pursuing my 
-[Masters in Urban Planning](http://www.creative.auckland.ac.nz/en/about/our-faculty/schools-programmes-and-centres/architecture-and-planning/ap-study-options/ap-murbplan.html) at the University of Auckland.
+Hi! I'm Steve. I have a [Masters degree in Urban Planning](http://www.creative.auckland.ac.nz/en/about/our-faculty/schools-programmes-and-centres/architecture-and-planning/ap-study-options/ap-murbplan.html) from the University of Auckland, and a professional background in software development and GIS. I don't currently work as a professional planner, although I am looking for work in planning, particularly public transport planning: feel free to contact me if you have or know of anything.
 
 You can see my topical and snarky reckons on this [blog](/) or on [Twitter](http://twitter.com/nzsd). Twitter is great. I recommend it.
 
 I'm a member of [Greater Auckland](http://www.greaterauckland.org.nz/), and student member of the [New Zealand Planning Institute](http://www.planning.org.nz/). The views expressed on this website, however, are mine alone.
 
-This blog allows public comments using [disqus](https://disqus.com/). Sometimes they'll be turned off, for example when a post is crossposted somewhere else more popular that has its own comments. You can also feel free to send any comments via email or the social medias.
+This blog doesn't have public comments: if you want to comment on a post, do so on [Twitter](http://twitter.com/nzsd) or [Facebook](https://www.facebook.com/citybeautiful.nz), or send me an [email](mailto:steve@sd.net.nz). Some posts are also crossposted on sites with public comments, and there's a note at the top where this is the case.
 
 ### Contact me
 
