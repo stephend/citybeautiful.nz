@@ -15,3 +15,8 @@ This blog doesn't have public comments: if you want to comment on a post, do so 
 ### Contact me
 
 Email: [steve@sd.net.nz](mailto:steve@sd.net.nz)
+
+<blockquote>
+	Make no little plans; they have no magic to stir men's blood.
+</blockquote>
+<i>&mdash; Daniel Burnham</i>
