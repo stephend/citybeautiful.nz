@@ -30,13 +30,9 @@ permalink: /links/
 
 [Carto](https://carto.com/)
 
-[The Children's Illustrated Clausewitz](https://clausewitzforkids.wordpress.com/) (not updated in a long time)
-
 [City Observatory](http://cityobservatory.org/)
 
 [Dan Carlin](http://www.dancarlin.com/)
-
-[Eric Crampton](http://offsettingbehaviour.blogspot.com/)
 
 [Existential Comics](http://existentialcomics.com/)
 
@@ -96,11 +92,11 @@ permalink: /links/
 
 [Streetsblog](http://usa.streetsblog.org/)
 
+[Talk Wellington](https://talkwellington.org.nz/)
+
 [Think of a City](http://thinkofacity.tumblr.com/) - look at pretty pictures
 
 [Timespanner](http://timespanner.blogspot.com/)
-
-[Tofugu](https://www.tofugu.com/) - a Japanese language and culture blog
 
 [Tom Beard](http://wellurban.blogspot.co.nz/) (not updated in a long, long time)
 
