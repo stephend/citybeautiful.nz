@@ -102,12 +102,6 @@ It's also possible we might want to retain some standards on parking: requiring 
 
 One way or another, though, a National Environmental Standard could be a quick, easy way of abolishing the blight of parking minimums wasting land in our cities, and reducing the cost of parking oversupply on residents and businesses.
 
-<hr>
-
-### Comments
-
-If you've got comments, @ me on [Twitter](https://twitter.com/nzsd)[^3].
-
 ### Notes
 
 [^1]: This seems to be incoherent as well. Why are the occupants of existing buildings entitled to free on-street parking at public expense, but the newcomers aren't? However, this seeming unfairness isn't really relevant to the main point.
