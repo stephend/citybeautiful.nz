@@ -47,7 +47,7 @@ The other possible response, which is far from inevitable but I think would be g
 * wider footpaths, which often would simply be undoing older narrowings of those same footpaths.
 * bus lanes and light rail tracks.
 
-In more suburban areas, often there's ample on-street parking space. In which case, nothing need change: we have those spaces, we might as well use them.
+In more suburban areas, often there's ample on-street parking space. In which case, nothing need immediately change: we have those spaces, we might as well use them.
 
 The in-between level is interesting. It's likely many inner suburbs that currently have no restrictions will gain residential parking schemes or pricing for the first time. That'll be politically interesting, but it's likely inevitable anyway. There's plenty of streets in Auckland, for example, built with one or two off-street spaces per house, but now occupied by flats with four, five or six cars between the tenants. Parking minimums or no, city councils will still need to do _something_ to address the issue through managing on-street parking.
 
