@@ -1,7 +1,7 @@
 <div class="posts">
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in posts %}
-  <div class="clearfix">
+  <div class="clearfix post-container-box">
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -11,11 +11,15 @@
       </div>
 
       <div class="entry">
-        <img class="excerpt_thumbnail" width=144 src="{{ post.image }}">
-        <span class="excerpt_text">{{ post.excerpt }}</span>
+        <img class="excerpt-thumbnail" width=144 src="{{ post.image }}">
+        <span class="excerpt-text">
+          <span class="excerpt_text">{{ post.excerpt }}</span>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+            {{ site.t[page.lang].read_more }}
+          </a>
+        </span>
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ site.t[page.lang].read_more }}</a>
     </article>
   </div>
   {% endfor %}
