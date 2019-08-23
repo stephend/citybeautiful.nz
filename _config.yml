@@ -36,6 +36,8 @@ avatar: /images/boat.tn144.jpg
 
 permalink: /:year/:month/:title/
 
+# paginate: 10
+
 defaults:
   -
     scope:
