@@ -1,18 +1,21 @@
     <div class="wrapper-masthead">
       <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}"></a>
+        <header class="masthead">
+          <div class="clearfix">
+            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}"></a>
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+            <div class="site-info">
+              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+              <p class="site-description">{{ site.description }}</p>
+            </div>
           </div>
-
-          <nav>
-            {% for menu_item in site.t[page.lang].menu %}
-            <a href="{{ menu_item[1].url }}">{{ menu_item[1].name }}</a>
-            {% endfor %}
-          </nav>
+          <div class="clearfix">
+            <nav>
+              {% for menu_item in site.t[page.lang].menu %}
+              <a href="{{ menu_item[1].url }}">{{ menu_item[1].name }}</a>
+              {% endfor %}
+            </nav>
+          </div>
         </header>
       </div>
     </div>

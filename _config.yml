@@ -55,17 +55,20 @@ t:
     read_more: "Read More"
     menu:
       latest:
-        name: "Latest"
+        name: "Latest Posts"
         url: "/"
       archives:
         name: "Archive"
         url: "/archives/"
       about:
-        name: "About"
+        name: "About Me"
         url: "/about/"
       links:
         name: "Links"
         url: "/links/"
+      privacy:
+        name: "Privacy Policy"
+        url: "/privacy/"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
