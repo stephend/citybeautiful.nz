@@ -68,7 +68,7 @@ t:
         url: "/links/"
       privacy:
         name: "Privacy Policy"
-        url: "/privacy/"
+        url: "/privacy/index.html"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
