@@ -1,8 +1,8 @@
 ---
 title: Why we must make room for growth
 layout: post
-image:
-excerpt:
+image: /images/2019/make-room/hamburg.tn144.jpg
+excerpt: "<p>New Zealand desperately needs more homes, and has done for decades. We've got the opportunity to add those new homes well, or badly. So far, we generally haven't done it well. For decades, urban planners (and even the odd brave politician) have called for our cities to add more housing in their existing areas, rather than sprawling ever outwards. It's better for the environment, more affordable financially, and in some cities like Wellington a simple geographic necessity.</p>"
 ---
 
 ## Introduction
@@ -23,7 +23,7 @@ These are all the high end of the range projections Stats produced, but part of 
 
 And the supply of housing is already a struggle today. [In the last decade](https://www.newshub.co.nz/home/politics/2019/08/the-real-reason-many-parents-can-t-feed-their-kids.amp.html) rents nationwide rose by 50%, while wages rose only 33%. It's disproportionate worse in major cities. Rents in Wellington rose 12.5% over the [last year alone](https://property.trademe.co.nz/market-insights/rental-price-index/rising-demand-for-rentals-puts-pressure-on-tenants/), vastly outstripping any increase in wages. This is one of the most extreme increases, but the trend is ever upward. Actually buying a house is becoming ever more unaffordable, and based on past trends it's likely that when the 2018 census data is released, it'll show that a majority of Aucklanders rent their home rather than own it.
 
-The problem is a fairly basic combination of geometry and economics. People need places to live, and if there's more people they need more houses. If the houses aren't there, prices will rise to ration the scarcity out, and those unable to pay will end up trapped in relationships they can't afford to end, living in cramped flats or with family well into adulthood. At its worst, the shortage leads to people living in caravans, garages, cars, or simply sleeping rough.
+The problem is a fairly basic combination of geometry and economics. People need places to live, and if there's more people they need more houses. If the houses aren't there, prices will rise to ration the scarcity out, and those unable to pay will end up trapped in relationships they can't afford to end, living in cramped flats or with family well into adulthood. At its worst, the shortage leads to people living in caravans, garages, cars, or simply sleeping rough. Even those fortunate enough not to worry about that will still find themselves paying far more than they should for worse housing in a worse location.
 
 ## Why grow up?
 
@@ -36,7 +36,7 @@ New Zealand planners have talked for nearly half a century, and politicians for 
 Intensification, unlike sprawl, also allows a [graceful landing](http://www.citybeautiful.nz/2017/10/the-high-price-trap/) from the spiral of house prices. 
 
 ![New terraced houses in Berhampore, Wellington](/images/2019/make-room/berhampore_terraces.w800.jpg)
-_New terraced houses in Berhampore, Wellington. This site is council-owned social housing. Photo: author._{: .caption } 
+_New terraced houses in Berhampore, Wellington. This site is council-owned social housing. For a private sector developer, getting approval for this sort of thing is difficult without assembling a single large site, and even then, there will often be severe limits on how many units can be built. Photo: author._{: .caption } 
 
 ## Why should central government direct it?
 
@@ -60,7 +60,7 @@ The core of how the NPS works is that it will require councils in major urban ar
 
 But back to intensification. The District Plans written by councils control development. Under the RMA, plans are expected to figure out which land uses have environment effects, and where those effects are negative, to restrict them.
 
-The problem is that denser housing developments are considered by these plans to be an environmental negative. Obviously, denser living is generally better for the environment than urban sprawl. But [the definition of "the environment"](http://www.citybeautiful.nz/2017/02/is-the-environment-to-blame/) in the the RMA includes quite a lot of matters that aren't in the normal use of the word. These "effects" generally are quite prescriptive, and embody prescriptive mid-20th century ideas about what the right way to live is. In most plans, having a one- or two-storey single detached house on a section of 400 to 1000 square metres is seen as the normal baseline. Everything else isn't banned, by any means. But everything else has to be endlessly, and expensively, justified on the grounds of being pretty similar to detached houses.
+The problem is that denser housing developments are considered by these plans to be an environmental negative. Obviously, denser living is generally better for the environment than urban sprawl. But [the definition of "the environment"](http://www.citybeautiful.nz/2017/02/is-the-environment-to-blame/) in the the RMA includes quite a lot of matters that aren't in the normal use of the word. These "effects" generally are quite prescriptive, and embody prescriptive mid-20th century ideas about what the right way to live is. In most plans, having a one- or two-storey single detached house on a section of 400 to 1000 square metres is seen as the normal baseline. Everything else isn't banned, by any means. But everything else has to be endlessly, and expensively, justified on the grounds of being pretty similar to detached houses in look and feel.
 
 You can build apartments, but they need to *look* like detached houses, through a whole host of detailed rules: height limits, height in relation to boundary, front yards, side yards, rear yards, site coverage, impervious coverage, landscaping, building separation, ground level open space. You've got to provide lawns even for people who don't use them, because they have much better parks nearby. Most cities have at least some zones that effectively limit the number of *kitchens* a house can have, just in case someone were to separately rent out part of their house. It's difficult to connect that back to a "negative" "effect" on the "environment", and most councils pay only lip service in trying. For the most part these rules simply were carried over from the much more paternalistic and prescriptive planning systems of the 20th century.
 
@@ -68,7 +68,7 @@ Planning rules are not the *only* obstacle to building denser housing. Often the
 
 ## How will the NPS change that?
 
-The NPS on Urban Development will require councils to open up existing residential areas for redevelopment that allow terraced houses, apartments, and so on. One option is to leave the choice of areas up to councils. But in general, that's the approach that's been tried and failed before. The more prescriptive approach will have central government direct these areas by formula: anywhere within 1.5km of the city centre, or within 800m of high-quality public transport. 
+The NPS on Urban Development will move on from mere encouragement, and require councils to open up existing residential areas for redevelopment and so allow terraced houses, apartments, and so on. One option is to leave the choice of areas up to councils. But in general, that's the approach that's been tried and failed before. The more prescriptive approach will have central government direct these areas by formula: anywhere within 1.5km of the city centre, or within 800m of high-quality public transport. 
 
 Which sort of higher density housing will be allowed is also not yet decided, but the approach suggested is also a prescriptive one. Councils would have some flexibility but in general their zone rules would have to allow at least a certain number of dwellings per hectare, or a certain floor area. It's possible some rules could be overridden: for example allowing three-storey buildings as of right, despite height limits or recession planes.
 
