@@ -5,6 +5,9 @@ title: "What does a world without parking minimums look like?"
 excerpt: "<p>Building our cities around cars took decades. Undoing it will also take decades, but I don't think it will be necessarily as hard to undo as it was to do.</p>"
 ---
 
+This article has also been cross-posted at [Greater Auckland](https://www.greaterauckland.org.nz/2019/08/27/guest-post-what-does-a-world-without-parking-minimums-look-like/) and you can comment there.
+{: .crosspost }
+
 Last year I wrote about [why parking minimums are bad policy, and how easy it might be to end them](http://www.citybeautiful.nz/2018/09/the-low-cost-of-ending-the-high-cost-of-free-parking/). The excellent urban activist group [Greater Auckland](https://www.greaterauckland.org.nz/2018/09/10/the-low-cost-of-ending-the-high-cost-of-free-parking/) reposted it, and there were some interesting points raised in the comments section. I also looked at [the very different approach to parking taken in Japan](http://www.citybeautiful.nz/2018/09/parking-in-japan/), where parking is seen as an individual responsibility of the driver, and met through paying for unbundled parking at market rates.
 
 This time, I want to look ahead and think past abolishing parking minimums to see what might happen to our cities here in New Zealand once parking minimums are gone everywhere.
