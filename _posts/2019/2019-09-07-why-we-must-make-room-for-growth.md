@@ -79,7 +79,7 @@ _A contemporary apartment building in Hamburg, Germany. While many European citi
 
 ## Why all the fuss about parking?
 
-One of the most important things the NPS will do is tackle parking requirements. I've before about [ending parking minimums](http://www.citybeautiful.nz/2019/08/a-world-without-minimums/), so I won't retread it too much. The short is that they waste land, sabotage good urban design for buildings, and subsidise and encourage driving, despite most climate and urban planning theoretically aiming to limit driving and provide alternatives.
+One of the most important things the NPS will do is tackle parking requirements. I've written before about [ending parking minimums](http://www.citybeautiful.nz/2019/08/a-world-without-minimums/), so I won't retread it too much. The short is that they waste land, sabotage good urban design for buildings, and subsidise and encourage driving, despite most climate and urban planning theoretically aiming to limit driving and provide alternatives.
 
 Professional planning has certainly moved over the last decade or so, towards seeing parking requirements as bad policy. The move certainly isn't complete. Even when politicians provide support for ending minimums, the old guard of planners, and big box retailers can make councils drag their feet. Auckland's Unitary Plan removed commercial parking requirements from town centres just to have the move blocked by unelected commissioners, under pressure from court action by big retailers.
 
