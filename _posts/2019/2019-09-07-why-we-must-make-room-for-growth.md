@@ -91,8 +91,7 @@ That would be a game-changer for New Zealand's cities. It's maybe the single big
 
 If you want a New Zealand that grows up about growing up its cities, and responsibly provides for growth, I suggest you give your feedback to the Ministry for the Environment. While the consultation is in principle asking for technical feedback, it's a deeply political decision, and your support will help keep the government committed to action, and not get spooked by pushback from reactionaries.
 
-In the next week or two, I hope to make a submission guide available, which should give you some pointers whether you want to send a simple message of support or a more detailed look into some of the questions they pose. In the meantime, the full discussion document, and some background is available at the [Ministry for the Environment page](https://www.mfe.govt.nz/consultations/nps-urbandevelopment). Submissions close on 10 October 2019.
-
+I've made a [guide to making a submission](http://www.citybeautiful.nz/2019/09/planning-successful-cities-submission-guide/), which should give you some pointers whether you want to send a simple message of support or a more detailed look into some of the questions they pose. Submissions close on 10 October 2019.
 
 ![Wellington's city centre, a stark contrast to the surrounding suburbs](/images/2019/make-room/wellington_central.w800.jpg)
 _Wellington has built a fair number of new apartments in the heart of the city, but the suburbs immediately surrounding the city centre haven't kept pace, leaving primarily extremely expensive detached houses. This leaves most people with a very binary choice: an apartment in the busy downtown, or a very long commute. Photo: author._{: .caption } 
