@@ -85,7 +85,7 @@ This mostly means councils engaging _with each other and with central government
 
 # Organising your submission
 
-There are two ways to make a submission. You can use the [online submission tool](https://submissions.mfe.govt.nz/consultations/planning-for-successful-cities/make-a-submission), which is what MfE would prefer you to do. Or you can write your own document and email it to [npsurbandevelopment@mfe.govt.nz](mailto:npsurbandevelopment@mfe.govt.nz). If you write your own document, I would still recommend __sticking to the format of the questions in the discussion document__.
+There are two ways to make a submission. You can use the [online submission tool](https://submissions.mfe.govt.nz/consultations/planning-for-successful-cities/make-a-submission), which is what MfE would prefer you to do, and which may mean your submission is read more carefully. Or you can write your own document and email it to [npsurbandevelopment@mfe.govt.nz](mailto:npsurbandevelopment@mfe.govt.nz). If you write your own document, I would still recommend __sticking to the format of the questions in the discussion document__.
 
 Your submission will be read through, once, quickly. But it will also be cut up into snippets, probably question by question, and this is going to be the main way it will be read: piece-by-piece, without much context. I would avoid anything that makes it hard for someone to leap in to your submission halfway through: 
 
@@ -98,7 +98,7 @@ Your submission will be read through, once, quickly. But it will also be cut up 
 
 # Answering the questions
 
-The discussion document is not asking for all of your opinions about urban planning. MfE wants feedback on how to design a fairly specific set of regulations, some of which they've probably already started writing, just with a few gaps where there are some options they're picking between. I would generally aim to stick to the questions asked.
+The discussion document is not asking for all of your opinions about urban planning. MfE wants feedback on how to design a fairly specific set of regulations, some of which they have already suggested particular wording for in the discussion document, and others where there are some options they're picking between. I would generally aim to stick to the questions asked.
 
 However, some of the questions are fairly open ended. Feel free to suggest other regulatory tools (e.g. amendments to the Resource Management Act) that might help achieve the goals of Making Room for Growth.
 
@@ -491,4 +491,4 @@ You probably don't need to answer any of these except for A3. I think the margin
 
 I hope that helps. If you've got further questions email me at [steve@sd.net.nz](mailto:steve@sd.net.nz) or @ me on Twitter, [@nzsd](https://twitter.com/nzsd). I may update this guide depending on what feedback all you lot give me.
 
-Submissions close at __noon on 10 October__. Use the [online submission tool](https://submissions.mfe.govt.nz/consultations/planning-for-successful-cities/make-a-submission), which or you can write your own document and email it to [npsurbandevelopment@mfe.govt.nz](mailto:npsurbandevelopment@mfe.govt.nz%).
+Submissions close at __5pm on 10 October__. Use the [online submission tool](https://submissions.mfe.govt.nz/consultations/planning-for-successful-cities/make-a-submission), which or you can write your own document and email it to [npsurbandevelopment@mfe.govt.nz](mailto:npsurbandevelopment@mfe.govt.nz%).
