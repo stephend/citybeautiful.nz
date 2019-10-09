@@ -85,7 +85,7 @@ This mostly means councils engaging _with each other and with central government
 
 # Organising your submission
 
-There are two ways to make a submission. You can use the [online submission tool](https://submissions.mfe.govt.nz/consultations/planning-for-successful-cities/make-a-submission), which is what MfE would prefer you to do, and which may mean your submission is read more carefully. Or you can write your own document and email it to [npsurbandevelopment@mfe.govt.nz](mailto:npsurbandevelopment@mfe.govt.nz). If you write your own document, I would still recommend __sticking to the format of the questions in the discussion document__.
+There are two ways to make a submission. You can use the [online submission tool](https://submissions.mfe.govt.nz/consultations/planning-for-successful-cities/make-a-submission), which is what MfE would prefer you to do. Or you can write your own document and email it to [npsurbandevelopment@mfe.govt.nz](mailto:npsurbandevelopment@mfe.govt.nz). Your submission will be read either way. If you write your own document, I would still recommend __sticking to the format of the questions in the discussion document__.
 
 Your submission will be read through, once, quickly. But it will also be cut up into snippets, probably question by question, and this is going to be the main way it will be read: piece-by-piece, without much context. I would avoid anything that makes it hard for someone to leap in to your submission halfway through: 
 
