@@ -64,9 +64,6 @@ t:
       about:
         name: "About Me"
         url: "/about/"
-      links:
-        name: "Links"
-        url: "/links/"
       privacy:
         name: "Privacy Policy"
         url: "/privacy/"
